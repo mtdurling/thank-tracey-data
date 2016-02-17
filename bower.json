@@ -15,7 +15,7 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
   "dependencies": {
     "angular": "~1.4.8",
     "angular-resource": "~1.4.8",
